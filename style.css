@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body
+{
+    height:100%;
+    width: 100%;
+}
+#bg
+{
+height: 100%;
+width: 100%;
+background: url(images/moon1.webp);
+background-size: 100% 100%;
+}
+h1
+{
+    color: white;
+    text-align: center;
+    line-height: 600px;
+    font-size: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    mix-blend-mode:difference ;
+
+}
