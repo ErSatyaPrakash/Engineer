@@ -23,5 +23,6 @@ h1
     font-size: 150px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /* mix-blend-mode:difference ; */
+    text-shadow: 0px 0px 10px red;
 
 }
